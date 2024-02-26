@@ -1,0 +1,25 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 5px;
+    
+}
+table{
+    width: 100%;
+    border: 1px solid black;
+    margin: 20px;
+}
+
+caption{
+    font-size: 1.2rem;
+    padding: 8px;
+    text-align: center;
+}
+
+th, td{
+    border: 1px solid black;
+    text-align: left;
+}
+
+th{
+    background-color: gray;
+}
